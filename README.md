@@ -1,7 +1,7 @@
 # Hi there, I'm Francisco Alves 👋
 
 <p align="center">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/franciscoalves-eng"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="[https://linkedin.com/in/www.linkedin.com/in/franciscoalves-eng](https://www.linkedin.com/in/francisco-alves-028a89376/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
 
 ### 💻 About Me
