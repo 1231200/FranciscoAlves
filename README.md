@@ -1,4 +1,4 @@
-# Hi there, I'm Francisco Alves 👋
+# Hi there, I'm Francisco Alves
 
 ### 💻 About Me
 
